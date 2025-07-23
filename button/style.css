@@ -444,13 +444,13 @@
   height: 41.51%;
 }
 .arrow-2 {
-  width: 10.68%;
-  height: 0%;
+  width: 30%;
+  height: 20%;
   position: absolute;
-  right: 63.68%;
-  left: 25.64%;
-  bottom: 49.06%;
-  top: 50.94%;
+  right: 20%;
+  left: 5%;
+  bottom: 40%;
+  top: 30%;
   overflow: visible;
 }
 .button-hire-me {
